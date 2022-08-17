@@ -1,0 +1,42 @@
+{
+    "CompanyLogo": "VeevartLogo.png",
+    "ViewGroup": "Aspose Test",
+    "Artworks": {
+        "Artwork_A": {
+            "Title": "Artwork_A",
+            "Artist": "Jaime Galvez",
+            "Year": 1998,
+            "Medium": "CGI",
+            "Movement": "Wettism",
+            "Dimensions": "640x640px",
+            "File": "Artwork_A.jpeg"
+        },
+        "Artwork_B": {
+            "Title": "Artwork_B",
+            "Artist": "Germanny Douglas",
+            "Year": 2000,
+            "Medium": "Photography",
+            "Movement": "Real Life-ism",
+            "Dimensions": "640x398px",
+            "File": "Artwork_B.jpeg"
+        },
+        "Artwork_C": {
+            "Title": "Artwork_C",
+            "Artist": "Ana Cabrera",
+            "Year": 1990,
+            "Medium": "Canvas",
+            "Movement": "Post-Apocalipsism",
+            "Dimensions": "640x427px",
+            "File": "Artwork_C.jpeg"
+        },
+        "Artwork_D": {
+            "Title": "Artwork_D",
+            "Artist": "Dante",
+            "Year": 1970,
+            "Medium": "Paper",
+            "Movement": "Something-ism",
+            "Dimensions": "640xx426px",
+            "File": "Artwork_D.jpeg"
+        }
+    }
+}
